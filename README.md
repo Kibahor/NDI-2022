@@ -1,5 +1,7 @@
 # NDI-2022
-
+Site de l'événement : https://nuitdelinfo.com/
+Sujet de l'évenement : https://www.nuitdelinfo.com/MA35U6z262hXyaCd/La_Nuit_de_l_Info_2022_-_Sujet.pdf
+https://www.nuitdelinfo.com/MA35U6z262hXyaCd/La_Nuit_de_l_Info_2022_-_Sujet.pdf
 ## Avant de commencer
 - [Documentation sur l'environnement](documentation/env.md)
 - [Documentation sur Git](documentation/git.md)
